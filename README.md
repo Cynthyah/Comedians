@@ -24,4 +24,3 @@ NLP in Python:
 ---
 ![image](<img src="sumary.jpg">)
 
-![image](<img src="sumary1.jpg">)
