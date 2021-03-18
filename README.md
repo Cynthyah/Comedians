@@ -22,5 +22,3 @@ NLP in Python:
 - Let´s apply some techniques
 - Time to share insights
 ---
-![image](<img src="sumary.jpg">)
-![image](<img src="sumary1.jpg">)
