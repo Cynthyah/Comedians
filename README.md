@@ -13,4 +13,12 @@ NLP in Python:
 - Clean/Stats: corpus, document-term matrix, word counts, sentiment analysis, topic modeling, text generation
 - Design: scope, visualisation, extract insights
 
-It was divided into 4 steps(programs).
+## Steps
+
+- What it will be analysed ? Question 
+- Where are we going to get this data ? How much data do I need ?
+- Do I need to clean my data ?
+- Let´s explore the data !
+- Let´s apply some techniques
+- Time to share insights
+---
