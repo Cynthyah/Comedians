@@ -13,6 +13,42 @@ NLP in Python:
 - Clean/Stats: corpus, document-term matrix, word counts, sentiment analysis, topic modeling, text generation
 - Design: scope, visualisation, extract insights
 
+## Libraries
+
+import requests
+
+import pickle
+
+import pandas as pd
+
+import re
+
+import string
+
+import matplotlib.pyplot as plt
+
+import scipy.sparse
+
+from sklearn.feature_extraction.text import CountVectorizer
+
+from collections import Counter
+
+from sklearn.feature_extraction import text
+
+from wordcloud import WordCloud
+
+from bs4 import BeautifulSoup as bs
+
+from IPython.display import set_matplotlib_formats
+
+from textblob import TextBlob
+
+from gensim import matutils, models
+
+from nltk import word_tokenize, pos_tag
+
+
+
 ## Steps
 
 - What it will be analysed ? Question 
